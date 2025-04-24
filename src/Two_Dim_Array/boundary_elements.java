@@ -39,7 +39,7 @@ public class boundary_elements {
         {
             for(int i=0;i<right;i++)
             {
-                System.out.print();
+                System.out.print(arr[i][j]);
             }
         }
 
