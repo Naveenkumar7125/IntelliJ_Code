@@ -32,16 +32,16 @@ public class boundary_elements {
 //        }
         int n = arr.length;
         int left = 0;
-        int right = n-1;
-        int top = 0;
-        int bottom = n-1;
-        while(top<=bottom && left<=right)
-        {
-            for(int i=0;i<right;i++)
-            {
-                System.out.print(arr[i][j]);
-            }
-        }
+//        int right = n-1;
+//        int top = 0;
+//        int bottom = n-1;
+//        while(top<=bottom && left<=right)
+//        {
+//            for(int i=0;i<right;i++)
+//            {
+//                System.out.print(arr[i][j]);
+//            }
+//        }
 
     }
 }
