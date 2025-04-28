@@ -19,8 +19,6 @@ public class OOPS1 {
             String joindate = sc.next();
             Employee e = new Employee(name, id, salary, joindate);
             emp[i] = e;
-//            e.display();
-//            e.display();
         }
         for(Employee e : emp)
         {
@@ -28,9 +26,6 @@ public class OOPS1 {
             System.out.println();
             System.out.println();
         }
-
-
-
     }
 }
 
