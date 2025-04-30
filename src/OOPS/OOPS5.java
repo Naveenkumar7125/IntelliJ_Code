@@ -24,9 +24,9 @@ public class OOPS5 {
         {
             System.out.println("Enter the name : ");
             String name = sc.next();
-            System.out.println("Enter the coach Number : ");
+            System.out.println("Enter the Seat no Number : ");
             int cn = sc.nextInt();
-            System.out.println("Enter the Seat Number : ");
+            System.out.println("Enter the Bus Number : ");
             int sn = sc.nextInt();
             TicketBooking t = new TicketBooking();
             t.ticketBook(name, cn, sn);
