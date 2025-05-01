@@ -30,7 +30,7 @@ public class OOPS7 {
         {
             System.out.println("R u gone maaad.....");
         }
-        System.out.println("\n-------------------**********-----------------");
+        System.out.println("\n--------------**********-------------");
 
     }
 }
